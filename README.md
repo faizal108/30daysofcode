@@ -3,8 +3,9 @@ Here is the 30 days of codeing challenge with Newton school and other community 
 
 <h1>Problems</h1>
 <hr>
-<h2>Day-1</h2>
-Newton went to a mall. There are N items in a shop. For each i=1, 2, …, N, the price of the i- th item is Ai Rs. Newton has K coupons. Each coupon can be used on one item. You can use any number of coupons, possibly zero, on the same item. Using k coupons on an item with a price of a Rs allows him to buy it for max{a−kX, 0} Rs.
+<details>
+  <summary><h2>Day-1</h2></summary>
+  <p>Newton went to a mall. There are N items in a shop. For each i=1, 2, …, N, the price of the i- th item is Ai Rs. Newton has K coupons. Each coupon can be used on one item. You can use any number of coupons, possibly zero, on the same item. Using k coupons on an item with a price of a Rs allows him to buy it for max{a−kX, 0} Rs.
 Print the minimum amount of money Newton needs to buy all the items.
 Input
 Input is given from Standard Input in the following format:
@@ -39,10 +40,12 @@ Sample Input 3
 2066 3193 2325 4030 3725 1669 1969 763 1653 159 5311 5341 4671 2374 4513 285 810 742 2981 202
 
 Sample Output 3
-112
+112</p>
+</details>
 
-<h2>Day-2</h2>
-The students of Newton School threw a grand party to celebrate their hard work and achievements. They danced and sang the night away, enjoying delicious food and creating memories that would last a lifetime.
+<details>
+  <summary><h2>Day-2</h2></summary>
+  <p>The students of Newton School threw a grand party to celebrate their hard work and achievements. They danced and sang the night away, enjoying delicious food and creating memories that would last a lifetime.
 There are N guests in the party and N-1 relationships are given. The guests are numbered 1, 2,. , N. The i- th relationship depicts that guest ai and guest bi are friends.
 Determine whether a guest exists or not who is a friend of all other guests.
 Here, we only consider the direct friendship.
@@ -100,10 +103,13 @@ Sample Input 3
 6 10
 
 Sample Output 3
-Yes
+Yes</p>
+</details>
 
-<h2>Day-3</h2>
-Edward participated in one maths competition. He was asked to find the number of ways to choose a pair of an even number and an odd number from the positive integers between 1 and N (inclusive). The order does not matter.
+
+<details>
+  <summary><h2>Day-3</h2></summary>
+  <p>Edward participated in one maths competition. He was asked to find the number of ways to choose a pair of an even number and an odd number from the positive integers between 1 and N (inclusive). The order does not matter.
 Input
 The input line contains only one input N.
 
@@ -129,4 +135,5 @@ Sample Input 3
 11
 
 Sample Output 3
-30
+30</p>
+</details>
