@@ -1,4 +1,5 @@
 # 30daysofcode
+
 Here is the 30 days of codeing challenge with Newton school and other community partners. they provide a new question daily. Here is then solution of the problems
 
 <h1>Problems</h1>
@@ -41,6 +42,7 @@ Sample Input 3
 
 Sample Output 3
 112</p>
+
 </details>
 
 <details>
@@ -62,7 +64,6 @@ a3 b3
 .
 .
 an-1 bn-1
-
 
 Constraints
 3 ≤ N ≤ 10^5
@@ -104,8 +105,8 @@ Sample Input 3
 
 Sample Output 3
 Yes</p>
-</details>
 
+</details>
 
 <details>
   <summary><h2>Day-3</h2></summary>
@@ -136,4 +137,68 @@ Sample Input 3
 
 Sample Output 3
 30</p>
+
 </details>
+
+<details>
+  <summary><h2>Day-4</h2></summary>
+  <p>Newton loves EVEN numbers.
+
+You are given two integers N and M. Generate 5 unique even numbers for Newton between N and M (excluding both).
+Input
+The first and the only line of input contains integer N and integer M.
+
+
+Constraints
+-103 <= N <=M <= 103
+
+M - N > 10
+Output
+The only line of output contains 5 singly spaced integers satisfying the constraints.
+Example
+Sample Input
+0 20
+
+Sample Output
+2 6 8 18 14</p>
+
+</details>
+
+<details>
+  <summary><h2>Day-5</h2></summary>
+  <p>Emily was playing with triplets. She was excited to find out how many triples of non-negative integers (a, b, c) satisfy a+b+c≤S and a×b×c≤T, where S & T are non-negative integers.
+Input
+The input line contains S, and T separated by space.
+
+Constraints
+0≤S≤100
+0≤T≤10000
+S and T are integers.
+Output
+Print the number of triples of non-negative integers (a, b, c) satisfying the conditions.
+Example
+Sample Input 1
+1 0
+
+Sample Output 1
+4
+
+Sample Input 2
+2 5
+
+Sample Output 2
+10
+
+Sample Input 3
+10 10
+
+Sample Output 3
+213</p>
+
+</details>
+
+<!-- <details>
+  <summary><h2>Day-6</h2></summary>
+  <p></p>
+
+</details> -->
