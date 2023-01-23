@@ -272,7 +272,7 @@ Yes</p>
 
 <details>
   <summary><h2>Day-8</h2></summary>
-  <p>You are given strings S and T consisting of lowercase English letters. Determine whether T is a (contiguous) substring of S.
+  <p><pre>You are given strings S and T consisting of lowercase English letters. Determine whether T is a (contiguous) substring of S.
 
 A string Y is said to be a (contiguous) substring of X if and only if Y can be obtained by performing the operation below on X zero or more times.
 
@@ -301,5 +301,5 @@ Sample Input 2
 gorilla
 gorillagorillagorilla
 Sample Output 2
-No</p>
+No</pre></p>
 </detalis>
