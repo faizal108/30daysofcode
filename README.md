@@ -305,7 +305,7 @@ No</pre></p>
 </details>
 
 <details>
-  <summary><h2>Day-8</h2></summary>
+  <summary><h2>Day-9</h2></summary>
   <p><pre>Bob is at the origin of a number line. He wants to reach a goal at coordinate X.
 There is a wall at coordinate Y, which Bob cannot go beyond at first. However, after picking up a hammer at coordinate Z, he can destroy that wall and pass through.
 Determine whether Bob can reach the goal. If he can, find the minimum total distance he needs to travel to do so.
