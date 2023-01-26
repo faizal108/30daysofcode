@@ -390,4 +390,4 @@ Sample Input 2
 Sample Output 2
 30555</pre>
   </p>
-<details>
+</details>
