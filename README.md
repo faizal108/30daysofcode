@@ -393,7 +393,7 @@ Sample Output 2
 </details>
 
 <details>
-  <summary><h2>Day-11</h2></summary>
+  <summary><h2>Day-12</h2></summary>
   <p><pre>Alexa Loves to play with 0's and 2's. Among the positive integers that consist of 0's and 2's when written in base 10, he wanted to find the Kth smallest integer. Help him find that.
 Input
 Input is given from Standard Input in the following format:
