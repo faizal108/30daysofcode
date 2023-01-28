@@ -418,3 +418,33 @@ Sample Input 3
 Sample Output 3
 220022020000202020002022022000002020002222002200002022002200</pre></p>
 </details>
+
+<details>
+  <summary><h2>Day-13</h2></summary>
+  <p><pre>You are given a sequence of length N consisting of integers:
+A=(A1, A2,...., AN)
+Find the smallest non-negative integer not in (A1, A2,....,AN).
+Input
+The input contains N and elements of sequence separated by a new line.
+N
+A1, A2,. , AN
+
+Constraints
+1≤N≤2000
+0≤Ai≤2000
+All values in the input are integers.
+Output
+Print the answer.
+Example
+Sample Input 1
+8
+0 3 2 6 2 1 0 0
+Sample Output 1
+4
+
+Sample Input 2
+3
+2000 2000 2000
+Sample Output 2
+0</pre></p>
+</details>
