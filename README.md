@@ -578,3 +578,29 @@ merrychristmas
 Sample Output 3
 meramtsirhcyrs</pre></p>
 </details>
+
+
+<details>
+  <summary><h2>Day-18</h2></summary>
+  <p><pre>You are given positive integers A and B.
+Let us calculate A+B (in decimal). If it does not involve a carry, print Easy; if it does, print Hard.
+Input
+The input contains two space separated numbers:
+A B
+
+Constraints
+A and B are integers.
+1 ≤ A, B ≤ 10^18
+Output
+If the calculation does not involve a carry, print Easy; if it does, print Hard.
+Example
+Sample Input 1
+229 390
+Sample Output 1
+Hard
+
+Sample Input 2
+123456789 9876543210
+Sample Output 2
+Easy</pre></p>
+</details>
